@@ -1,0 +1,29 @@
+{
+  "name": "three-collada-loader-2",
+  "version": "1.0.0",
+  "description": "The three.js collada loader introduced in r88, taken from three/examples/js/loaders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkleinke/three-collada-loader-2.git"
+  },
+  "keywords": [
+    "three",
+    "threejs",
+    "collada",
+    "dae",
+    "loader"
+  ],
+  "peerDependencies": {
+    "three": ">=0.89.0"
+  },
+  "author": "Thomas Kleinke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tkleinke/three-collada-loader-2/issues"
+  },
+  "homepage": "https://github.com/tkleinke/three-collada-loader-2#readme"
+}
