@@ -3144,7 +3144,7 @@ ColladaLoader.prototype = {
 
 			var object;
 
-			if ( nodes.length === 0 && objects.length === 1 ) {
+			if ( nodes.length === 0 && objects.length === 1 && instanceNodes.length !== 1 ) {
 
 				object = objects[ 0 ];
 
